@@ -31,8 +31,8 @@ A learning platform that adapts to each student's level using AI-powered feedbac
 
 ```bash
 # 1. Clone the project
-git clone https://github.com/Aineah-Simiyu/Ai-Adapative-learning.git
-cd Adaptive_Learning_Platform
+git clone https://github.com/chengwalillian/ai_assisted_learning
+cd ai_assisted_learning
 
 # 2. Set up environment
 cp .env.example .env

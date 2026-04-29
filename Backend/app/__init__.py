@@ -1,0 +1,2 @@
+"""AI-Powered Adaptive Learning System"""
+__version__ = "1.0.0"

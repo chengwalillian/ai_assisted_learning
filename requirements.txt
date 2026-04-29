@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+groq
+python-dotenv
+pydantic
+chromadb
+sentence-transformers
